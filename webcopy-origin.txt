@@ -507,7 +507,7 @@ File Name: D:\isma3l-work\extract-project-litegreenie\www.litegreenie.com\gtag\j
 Content Type: application/javascript
 
 Uri: https://www.litegreenie.com/
-File Name: D:\isma3l-work\extract-project-litegreenie\www.litegreenie.com\index.htm
+File Name: D:\isma3l-work\extract-project-litegreenie\www.litegreenie.com\index.html
 Content Type: text/html
 
 Uri: https://www.litegreenie.com/about/
